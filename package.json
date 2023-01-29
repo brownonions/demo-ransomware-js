@@ -1,0 +1,23 @@
+{
+  "name": "ransomwareproject---cybersec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "pkg": {
+    "assets": "RansomwareProject---CyberSec/*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmandaKankkonen/RansomwareProject---CyberSec.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmandaKankkonen/RansomwareProject---CyberSec/issues"
+  },
+  "homepage": "https://github.com/AmandaKankkonen/RansomwareProject---CyberSec#readme"
+}
