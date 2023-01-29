@@ -1,1 +1,0 @@
-# demo-ransomware-js
